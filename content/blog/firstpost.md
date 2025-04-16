@@ -24,3 +24,5 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 ```
 
 Lägger till mer text.
+
+![Enkel drake i svartvitt](/media/drake.jpeg)
