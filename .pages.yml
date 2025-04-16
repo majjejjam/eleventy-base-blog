@@ -42,3 +42,15 @@ content:
         label: Preview image
         type: image
         description: Image used in the social preview on social networks (e.g. Facebook, Twitter...)
+  - name: categories
+    label: Categories
+    path: _data/categories
+    type: collection
+    fields:
+      - name: name
+        label: Category name
+        type: string
+      - name: cover
+        label: Category image
+        type: image
+        description: Image used in the category view
