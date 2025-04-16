@@ -24,7 +24,7 @@ content:
         type: rich-text
   - name: site
     label: Site settings
-    path: _data/metadata.json
+    path: _data/metadata.js
     type: file
     fields:
       - name: title
